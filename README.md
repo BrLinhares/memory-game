@@ -22,7 +22,7 @@ HTML5 CSS3 (responsive and modern) Pure JavaScript (no external libraries)
 2️⃣ Open the index.html file in a browser
 
 🎮 Live Demo 
-💻 You can test the game here (https://memory-game-iota-swart.vercel.app/).
+💻 You can test the game here (https://memory-game-a8yp.vercel.app/).
 
 
 //Português 🇧🇷 
@@ -47,4 +47,4 @@ HTML5 CSS3 (responsivo e moderno) JavaScript puro (sem bibliotecas externas)
 2️⃣ Abra o arquivo index.html no navegador
 
 🎮 Demonstração 
-💻 Você pode testar o jogo aqui (https://memory-game-iota-swart.vercel.app/).
+💻 Você pode testar o jogo aqui (https://memory-game-a8yp.vercel.app/).
